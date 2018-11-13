@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: "Open_Sans";
+    src: url("/dist/Opens_Sans") format("truetype");
+}
+
+body{
+    font-family: Open_Sans;
+}
